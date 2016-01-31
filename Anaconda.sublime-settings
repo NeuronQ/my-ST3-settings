@@ -1,0 +1,16 @@
+{
+	"anaconda_tooltip_theme": "light",
+	"autoformat_ignore": [
+		"E501", // line too long
+		"E303", // too many blank lines
+		"E266", // too many #s
+	],
+	"pep8_ignore": [
+		"E501", // line too long
+		"E303", // too many blank lines
+		"E266", // too many #s
+		"W391", // one blank line at end of file
+		"E251", // unexpected whitespace around keyword/param/equal
+		"E221", // multiple spaces before operator
+	]
+}
